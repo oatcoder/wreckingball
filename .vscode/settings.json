@@ -1,0 +1,8 @@
+{
+    "debug.node.autoAttach": "on",
+    "files.exclude": {
+        "**/.gitignore": true,
+        "**/.nyc_output": true,
+        "**/coverage": true
+    }
+}
